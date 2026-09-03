@@ -123,7 +123,7 @@ Event manager settings:
 
 ### render.conf
 
-Recognozed by the `Game` class, applied to the `Game.deferredRenderer` and `Game.postProcessingRenderer`.
+Recognized by the `Game` class, applied to the `Game.deferredRenderer` and `Game.postProcessingRenderer`.
 
 * `ss.sampleRatio` - supersampling factor. `1` means original resolution, `2` means double resolution, and so on.
 * `brdf.file` - path to the default BRDF lookup texture. Default is `"data/__internal/textures/brdf.dds"`
