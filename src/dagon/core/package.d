@@ -110,6 +110,6 @@ public
     /// Vulkan image format enumerations.
     import dagon.core.vkformat;
 
-    /// Vulkan image format enumerations.
+    /// Wintab binding.
     import dagon.core.wintab;
 }
